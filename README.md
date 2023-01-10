@@ -6,7 +6,18 @@ Group Members: Fatima Mahmoud (fam76), Ayesha Kemal (ak2235), and Aishwarya Sing
 
 To run web server, use `python -m http.server` for python 3
 
+*There are miscalculations in the general population rates*
+
 ## Final Visualization
+
+![choropleth finals](https://user-images.githubusercontent.com/58915939/211448368-b5cf657c-6f15-403b-b269-1b0471d3b59a.png)
+![linegraph final](https://user-images.githubusercontent.com/58915939/211448376-50979843-2a14-4ab9-b094-d441d8898481.png)
+
+
+https://user-images.githubusercontent.com/58915939/211448963-80e92a38-e31d-4304-b159-c5647320d7f8.mp4
+
+
+
 
 ## Data
 
